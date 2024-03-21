@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Rishi</h1>
 <h3 align="center">Passionate Full Stack Developer | Data Science Enthusiast | Ethical Hacking Enthusiast</h3>
-<img align="right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavrishi19&label=Profile%20views&color=0e75b6&style=flat" alt="pranavrishi19" /> </p>
 
